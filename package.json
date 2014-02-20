@@ -1,26 +1,8 @@
 {
-  "name": "cumulative-moving-average",
+  "name": "math-utils-cumulative-moving-average",
   "description": "Cumulative moving average",
   "version": "0.0.2",
-  "author": {
-    "name": "Jonathan Ong",
-    "email": "me@jongleberry.com",
-    "url": "http://jongleberry.com",
-    "twitter": "https://twitter.com/jongleberry"
-  },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/math-utils/cumulative-moving-average.git"
-  },
-  "bugs": {
-    "mail": "me@jongleberry.com",
-    "url": "https://github.com/math-utils/cumulative-moving-average/issues"
-  },
-  "devDependencies": {
-    "mocha": "*"
-  },
-  "scripts": {
-    "test": "make test;"
-  }
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
 }
